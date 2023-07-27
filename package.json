@@ -21,7 +21,7 @@
   "author": "GitHub",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^24.0.0",
+    "electron": "^25.3.2",
     "electron-installer-dmg": "^4.0.0"
   }
 }
